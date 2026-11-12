@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz Images</string>
+    <string name="titre">Quiz des formes</string>
+    <string name="score">Score : %1$d/%2$d</string>
+    <string name="progression">Réponses : %1$d/%2$d</string>
+    <string name="numero_question">Question %1$d sur %2$d</string>
+    <string name="bonne_reponse">✔ Bonne réponse !</string>
+    <string name="mauvaise_reponse">✘ Mauvaise réponse. La bonne réponse était : %1$s</string>
+    <string name="question_suivante">Question suivante</string>
+    <string name="voir_resultat">Voir le résultat</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="titre_resultat">Partie terminée</string>
+    <string name="resultat_final">Votre score final : %1$d / %2$d</string>
+    <string name="appreciation_parfait">Parfait, aucune erreur !</string>
+    <string name="appreciation_bien">Bien joué !</string>
+    <string name="appreciation_moyen">Vous pouvez faire mieux, réessayez !</string>
+</resources>

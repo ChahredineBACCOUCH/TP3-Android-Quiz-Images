@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Étoile jaune à cinq branches -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <path
+        android:fillColor="#FFFDD835"
+        android:strokeColor="#FFF57F17"
+        android:strokeWidth="4"
+        android:pathData="M100,15 L121,73 L183,73 L133,110 L152,170 L100,134 L48,170 L67,110 L17,73 L79,73 Z" />
+</vector>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Rectangle violet (plus large que haut) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <path
+        android:fillColor="#FF8E24AA"
+        android:strokeColor="#FF4A148C"
+        android:strokeWidth="4"
+        android:pathData="M10,55 L190,55 L190,145 L10,145 Z" />
+</vector>
